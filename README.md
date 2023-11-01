@@ -1,2 +1,2 @@
 # JavaServlet
-Exemplo basico do uso de Servlet em Java
+Exemplo básico do uso de Servlet em Java
